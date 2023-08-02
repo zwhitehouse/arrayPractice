@@ -12,3 +12,5 @@ two.push();
 three.shift();
 // This method will remove the first element in an array and return it as a value
 
+// I know that arrays are index number based which means they start at zero. This means when you are 
+// counting the position of a specific element within an array, you must start with 0 at the first element, 1 for the second element, and so on.
